@@ -1,0 +1,11 @@
+1. make Array class better by exception handling
+2. put checks on ifstream (file.isopen()) for better approach
+3. put in something to initialize the id of user, make the getLastLineInteger function good, better for error handling
+
+-> put the logic to delete first comment and add the new comment on the list in posts, and its file handling
+
+->change Array.h and Array.cpp to do everything in double pointer and an array of pointers
+
+->make copy constructors, and overload assignment operator for  User, Post,  and Page
+
+->do something, so that owned pages are also in an attribute of class user.....
